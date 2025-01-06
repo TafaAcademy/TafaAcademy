@@ -4,7 +4,7 @@ Welcome to Tafa Academy!
 At Tafa Academy, we are dedicated to revolutionizing education through technology. Our mission is to empower learners across all levels, from primary to secondary, by providing innovative and accessible educational solutions.
 
 What We Do:
-Interactive Learning: Engaging and interactive digital content tailored to Kenya's Competency-Based Curriculum (CBC).
+Interactive Learning: Engaging and interactive digital content tailored to Kenya's Curriculum .
 AI-Powered Education: Leveraging AI tools to create personalized and impactful learning experiences.
 Offline Accessibility: With tools like TafaPlayer, we ensure quality education is accessible even without internet connectivity.
 Our Core Offerings:
