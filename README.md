@@ -8,7 +8,7 @@ Interactive Learning: Engaging and interactive digital content tailored to Kenya
 AI-Powered Education: Leveraging AI tools to create personalized and impactful learning experiences.
 Offline Accessibility: With tools like TafaPlayer, we ensure quality education is accessible even without internet connectivity.
 Our Core Offerings:
-CBC-Aligned Content: Comprehensive materials for junior and senior secondary school subjects, including Mathematics, Physics, Chemistry, and Biology.
+STEM-Aligned Content: Comprehensive materials for junior and senior secondary school subjects, including Mathematics, Physics, Chemistry, and Biology.
 Assessment Tools: Advanced platforms for evaluations and analytics to help learners and educators track progress.
 EdTech Innovations: Pioneering solutions in AI, VR, and AR to equip students for the future.
 Join Us on Our Journey:
